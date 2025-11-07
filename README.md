@@ -141,14 +141,3 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
----
-
-**Built with ❤️ using LangChain, Streamlit, and Groq**
